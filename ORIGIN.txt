@@ -1,1 +1,4 @@
 ORIGIN Shares
+
+# All time use BeiJing Time
+
