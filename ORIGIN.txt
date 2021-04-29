@@ -2,3 +2,71 @@ ORIGIN Shares
 
 # All time use BeiJing Time
 
+[ANN][ORIGIN] ORIGIN is an ERC20 token used to invest in China's stock market. 
+
+
+
+
+
+大家好，我是一名在中国的投资者，我非常擅长投资中国的股市，我们都知道中国是世界上经济较为活跃的国家之一，我的目标是取得长期年化60%以上的复利的成绩，我非常有信心超过巴菲特的投资成就，所以我决定在以太坊上发行代表基金股份的token，也就是origin
+
+origin股份的合约地址是0x5bee5def244ff65aba7b24825ea1a211973e1f22
+
+如果有更多的人愿意购买我的基金份额，origin代币的流通供应量就会不断地增加
+origin代币的初始价格是一美元，如果我们能实现年化60%的复利增长，那么10年后，我们就可以期待一个origin代币的价格将变成100美元以上, 因为在数学上，pow(1.6, 10) = 109.95
+
+唯一需要费用的地方，是当你们购买基金份额时，我会收取%5的报酬，而在持有或卖出时，不再产生任何的费用
+
+
+在中国的股市开市期间，我会在telegram或者bitcointalk上定期的公布基金当前的净值价格, 每个月的1 号，如果有人需要赎回基金的话，我将会拿出基金总额的1%的钱按照最新的基金净值价格来回购你们手中的origin代币.
+
+为了让origin的分配能更加地透明，我使用了两个地址，其中一个是未分配的origin代币地址，另一个地址是用来存放从你们购买origin代币时收取到的费用对应的origin份额， 所以:
+
+未分配的origin地址:
+0xc86A8C822518343e4037DA8148042aD78b5fbebf
+
+收取的手续费对应的origin份额的地址:
+0x1b1c899d6183afC118b3Ae703018211798D7FC14
+
+
+因为中心化交易所上币费用太高，去中心化的uniswap的滑点又太大，origin项目本身就是基于信任的原则，所以，我们通过peer-to-peer的方式来交易，如果你们需要买卖origin代币，直接在telegram群组里告诉一下我
+
+
+
+Hi everyone,
+   I'm an investor in China. I'm very good at investing in China's stock market. We all know that China is one of the countries with relatively active economy in the world. 
+
+[Intro]
+My goal is to achieve a long-term annualized compound interest rate of more than 60%. I'm very confident that I can surpass Warren Buffett's investment achievements, so I decided to issue a token representing the fund shares on Ethereum, It's ORIGIN.
+The contract address of ORIGIN shares is 0x5bee5def244ff65aba7b24825ea1a211973e1f22
+
+[Supply]
+The supply of ORIGIN token is not fixed. If more people are willing to buy my fund shares, the circulating supply of ORIGIN token will continue to increase.
+
+[Return on investment]
+The initial price of the ORIGIN token is 1 USDT. If I can achieve an annual compound interest growth of 60%, we can expect that the price of an ORIGIN token will be more than 100 USDT in 10 years, because in mathematics, pow (1.6, 10) = 109.95
+
+[Fee]
+The only thing that needs a fee is that when you buy ORIGIN fund shares, I will charge you %5 as a reward, and when you hold or sell them, there will be no fee anymore.
+
+[Buy back]
+During the opening period of China's stock market, I will regularly announce the current net value price of the fund on the telegram and bitcointalk. On the 1st of each month, if someone needs to redeem the fund, I will take out up to 1% of the total size of the fund and buy back your ORIGIN token according to the latest net value price of the fund.
+
+[Address]
+In order to make the allocation of ORIGIN more transparent, I use two addresses, one is the unallocated ORIGIN token address, and the other is used to deposit the corresponding ORIGIN share of the fees collected from you when you buy the ORIGIN token from me.
+
+Unallocated ORIGIN:
+0xc86A8C822518343e4037DA8148042aD78b5fbebf
+
+Fee address:
+0x1b1c899d6183afC118b3Ae703018211798D7FC14
+
+[Exchange]
+Because of the high cost of listing in the centralized exchange and the large slippage of decentralized Uniswap, We only support exchange ORIGIN token through the peer-to-peer way,  If you need to buy or sell ORIGIN, please tell me directly in the telegram group.
+
+[Contact]
+telegram: https://t.me/origin_shares
+Email: 308831759@qq.com
+bitcointalk: https://bitcointalk.org/index.php?topic=5334009.0
+
+
