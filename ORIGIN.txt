@@ -5,6 +5,14 @@ ORIGIN Shares
 [ANN][ORIGIN] ORIGIN is an ERC20 token used to invest in China's stock market. 
 
 
+[Price update]
+Total value of fund = 1000 USDT
+Total amount = 1000 ORIGIN
+Current price = 1000 USDT / 1000 ORIGIN = 1 USDT per ORIGIN
+
+[’Àªß]
+ORIGIN percent = 0.02566710862383356375993222623588
+ORIGIN amount = 1000 ORIGIN
 
 
 
@@ -68,5 +76,3 @@ Because of the high cost of listing in the centralized exchange and the large sl
 telegram: https://t.me/origin_shares
 Email: 308831759@qq.com
 bitcointalk: https://bitcointalk.org/index.php?topic=5334009.0
-
-
