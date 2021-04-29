@@ -9,6 +9,7 @@ ORIGIN Shares
 Total value of fund = 1000 USDT
 Total amount = 1000 ORIGIN
 Current price = 1000 USDT / 1000 ORIGIN = 1 USDT per ORIGIN
+So, if you have any ORIGIN token, you can sell it to me at price 1 USDT.
 
 [’Àªß]
 ORIGIN percent = 0.02566710862383356375993222623588
