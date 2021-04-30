@@ -6,14 +6,18 @@ ORIGIN Shares
 
 
 [Price update]
-Total value of fund = 1000 USDT
+Total value of fund = 1004.984 USDT
 Total amount = 1000 ORIGIN
-Current price = 1000 USDT / 1000 ORIGIN = 1 USDT per ORIGIN
-So, if you have any ORIGIN token, you can sell it to me at price 1 USDT.
+Current price = 1004.984 USDT / 1000 ORIGIN = 1.004984 USDT per ORIGIN
+So, if you have some ORIGIN tokens, you can sell it to me at price 1.004984 USDT.
+
+
 
 [账户]
 ORIGIN percent = 0.02566710862383356375993222623588
 ORIGIN amount = 1000 ORIGIN
+
+因为在五一节期间，中国的股市会休市，所以ORIGIN的净值价格会在假期后再公布
 
 
 
