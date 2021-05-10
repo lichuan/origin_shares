@@ -6,10 +6,12 @@ ORIGIN Shares
 
 
 [Price update]
-Total value of fund = 1004.984 USDT
+Total value of fund = 921.551 USDT
 Total amount = 1000 ORIGIN
-Current price = 1004.984 USDT / 1000 ORIGIN = 1.004984 USDT per ORIGIN
-So, if you have some ORIGIN tokens, you can sell it to me at price 1.004984 USDT.
+Current price = 921.551 USDT / 1000 ORIGIN = 0.921551 USDT per ORIGIN
+
+So, you can buy or sell the ORIGIN token at a price of 0.921551 USDT.
+Recently, China's stock market has fallen a little. We can't stop the short-term fluctuation of the market, but in the long run, the value of the ORIGIN token will slowly rise.
 
 
 
@@ -17,8 +19,9 @@ So, if you have some ORIGIN tokens, you can sell it to me at price 1.004984 USDT
 ORIGIN percent = 0.02566710862383356375993222623588
 ORIGIN amount = 1000 ORIGIN
 
-因为在五一节期间，中国的股市会休市，所以ORIGIN的净值价格会在假期后再公布
+You don't understand what I mean. The total circulation depends on the size of the fund. If more people are willing to invest in my fund, the total circulation will continue to increase, much like the USDT issued by tether company, as long as more people are willing to use USDT, tether company must passively increase the circulation. In other words, the circulating supply of ORIGIN token does not depend on my decision, but a passive decision to meet the market demand.
 
+因为在五一节期间，中国的股市会休市，所以ORIGIN的净值价格会在假期后再公布
 
 
 大家好，我是一名在中国的投资者，我非常擅长投资中国的股市，我们都知道中国是世界上经济较为活跃的国家之一，我的目标是取得长期年化60%以上的复利的成绩，我非常有信心超过巴菲特的投资成就，所以我决定在以太坊上发行代表基金股份的token，也就是origin
