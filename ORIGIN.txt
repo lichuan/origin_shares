@@ -85,3 +85,4 @@ Because of the high cost of listing in the centralized exchange and the large sl
 telegram: https://t.me/origin_shares
 Email: 308831759@qq.com
 bitcointalk: https://bitcointalk.org/index.php?topic=5334009.0
+explorer: https://etherscan.io/token/0x5bee5def244ff65aba7b24825ea1a211973e1f22
