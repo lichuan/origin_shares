@@ -22,6 +22,7 @@ ORIGIN amount = 1000 ORIGIN
 You don't understand what I mean. The total circulation depends on the size of the fund. If more people are willing to invest in my fund, the total circulation will continue to increase, much like the USDT issued by tether company, as long as more people are willing to use USDT, tether company must passively increase the circulation. In other words, the circulating supply of ORIGIN token does not depend on my decision, but a passive decision to meet the market demand.
 
 因为在五一节期间，中国的股市会休市，所以ORIGIN的净值价格会在假期后再公布
+因为网络手续较高，所以目前我们不接受代币的小数量买卖，所以，如果你想交易代币，请至少保证数量达到1000个以上
 
 
 大家好，我是一名在中国的投资者，我非常擅长投资中国的股市，我们都知道中国是世界上经济较为活跃的国家之一，我的目标是取得长期年化60%以上的复利的成绩，我非常有信心超过巴菲特的投资成就，所以我决定在以太坊上发行代表基金股份的token，也就是origin
